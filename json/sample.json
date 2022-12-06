@@ -1,22 +1,102 @@
 [
 	{
-		"id": "1",
-		"imageUrl": "https://www.sakura-2005.com/wp-content/uploads/2017/11/facilities_ct05_004.jpg",
-		"name": "東京染井温泉 SAKURA",
-		"station": "巣鴨駅",
-		"walk": 7,
-		"time": "家から41分",
-		"cost1": "平日：1705円",
-		"cost2":"土日祝：1925円"
+		"id": 1,
+		"name": "南青山　清水湯",
+		"station": "表参道",
+		"cost1": 790,
+		"cost2": 790,
+		"time": 26,
+		"walk": 5,
+		"imageUrl": "https://www.1010.or.jp/map/wp-content/uploads/import2/eyecatch_4_6914.jpg"
 	},
 	{
-		"id": "2",
-		"imageUrl": "https://www.aquajapan.co.jp/wp/wp-content/uploads/2020/10/3-7-scaled-1000x560.jpg",
+		"id": 2,
+		"name": "武蔵小小山温泉",
+		"station": "武蔵小山",
+		"cost1": 730,
+		"cost2": 730,
+		"time": 40,
+		"walk": 6,
+		"imageUrl": "https://www.1010.or.jp/map/wp-content/uploads/import2/eyecatch_0_5225.jpg"
+	},
+	{
+		"id": 3,
+		"name": "準天然光明石温泉（人工）天空の湯",
+		"station": "浜松町",
+		"cost1": 1450,
+		"cost2": 1450,
+		"time": 46,
+		"walk": 9,
+		"imageUrl": "https://www.hotel-azur.com/wp-content/themes/hotel-azur/assets/img/bath-main.png"
+	},
+	{
+		"id": 4,
+		"name": "美しの湯",
+		"station": "高井戸",
+		"cost1": 1150,
+		"cost2": 1400,
+		"time": 46,
+		"walk": 2,
+		"imageUrl": "https://www.supersento.com/kanto/tokyo/img/utukushi2.jpg"
+	},
+	{
+		"id": 5,
+		"name": "前野原温泉 さやの湯処",
+		"station": "志村坂上",
+		"cost1": 1210,
+		"cost2": 1440,
+		"time": 53,
+		"walk": 10,
+		"imageUrl": "https://tabicoffret.com/uploads/93ca0a62e46386d9dcbb65499f5170ae.jpg"
+	},
+	{
+		"id": 6,
+		"name": "東京染井温泉 SAKURA",
+		"station": "巣鴨",
+		"cost1": 1705,
+		"cost2": 1925,
+		"time": 41,
+		"walk": 8,
+		"imageUrl": "https://www.sakura-2005.com/wp-content/uploads/2017/11/facilities_ct05_004.jpg"
+	},
+	{
+		"id": 7,
+		"name": "豊島園庭の湯",
+		"station": "豊島園",
+		"cost1": 2070,
+		"cost2": 2370,
+		"time": 44,
+		"walk": 5,
+		"imageUrl": "https://www.seibu-leisure.co.jp/niwa/img/floormap_persist_mizu_001.jpg"
+	},
+	{
+		"id": 8,
+		"name": "板橋温泉",
+		"station": "板橋本町",
+		"cost1": 2260,
+		"cost2": 2260,
+		"time": 51,
+		"walk": 9,
+		"imageUrl": "https://onsen.nifty.com/cms_image/onsen/255-elizabeth/onsen005614/005614_poto06.jpg"
+	},
+	{
+		"id": 9,
 		"name": "テルマーの湯",
-		"station": "新宿駅",
+		"station": "新宿",
+		"cost1": 2405,
+		"cost2": 3285,
+		"time": 18,
 		"walk": 7,
-		"time": "家から18分",
-		"cost1": "平日：2405円",
-		"cost2":"土日祝：3285円"
+		"imageUrl": "https://www.aquajapan.co.jp/wp/wp-content/uploads/2020/10/3-7-scaled-1000x560.jpg"
+	},
+	{
+		"id": 10,
+		"name": "スパラクーア",
+		"station": "後楽園",
+		"cost1": 2900,
+		"cost2": 3450,
+		"time": 22,
+		"walk": 6,
+		"imageUrl": "https://www.laqua.jp/files/20171029/baden.jpeg"
 	}
 ]
